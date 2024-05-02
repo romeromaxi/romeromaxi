@@ -96,9 +96,9 @@
 
 <br />
 <br />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=romeromaxi&show_icons=true&locale=en&layout=compact" alt="romeromaxi" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=romeromaxi&show_icons=true&locale=en&layout=compact" alt="romeromaxi" /></p>-->
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=romeromaxi&show_icons=true&locale=en" alt="romeromaxi" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=romeromaxi&show_icons=true&locale=en" alt="romeromaxi" /></p>-->
 
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romeromaxi&" alt="romeromaxi" /></p>
