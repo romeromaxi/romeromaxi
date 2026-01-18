@@ -1,6 +1,6 @@
 <h2 align="center">Hola 👋! Soy Maximiliano Romero Vázquez</h2>
 
-<p span>Estudiante de Ingeniería en Informática en la Universidad de Buenos Aires (UBA) - Lead Developer </span>
+<p span>Ingeniero en Informática, recibido en la Universidad de Buenos Aires (UBA) - Lead Developer </span>
 
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romeromaxi" alt="romeromaxi" /></a> </p>
